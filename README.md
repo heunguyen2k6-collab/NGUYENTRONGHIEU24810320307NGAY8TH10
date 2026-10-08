@@ -16,49 +16,49 @@
 ## Báo lỗi
 
 ### baoloibai1.png
-![baoloibai1](screenshots/baoloibai1.png)
+![baoloibai1](baoloibai1.png)
 
 ### baoloibai3.png
-![baoloibai3](screenshots/baoloibai3.png)
+![baoloibai3](baoloibai3.png)
 
 ### baoloibai4.png
-![baoloibai4](screenshots/baoloibai4.png)
+![baoloibai4](baoloibai4.png)
 
 ### baoloibai5.png
-![baoloibai5](screenshots/baoloibai5.png)
+![baoloibai5](baoloibai5.png)
 
 
 ## Giao diện
 
 ### giaodienbai1.png
-![giaodienbai1](screenshots/giaodienbai1.png)
+![giaodienbai1](giaodienbai1.png)
 
 ### giaodienbai2.png
-![giaodienbai2](screenshots/giaodienbai2.png)
+![giaodienbai2](giaodienbai2.png)
 
 ### giaodienbai3.png
-![giaodienbai3](screenshots/giaodienbai3.png)
+![giaodienbai3](giaodienbai3.png)
 
 ### giaodienbai4.png
-![giaodienbai4](screenshots/giaodienbai4.png)
+![giaodienbai4](giaodienbai4.png)
 
 ### giaodienbai5.png
-![giaodienbai5](screenshots/giaodienbai5.png)
+![giaodienbai5](giaodienbai5.png)
 
 
 ## Thực thi
 
 ### thucthibai1.png
-![thucthibai1](screenshots/thucthibai1.png)
+![thucthibai1](thucthibai1.png)
 
 ### thucthibai2.png
-![thucthibai2](screenshots/thucthibai2.png)
+![thucthibai2](thucthibai2.png)
 
 ### thucthibai3.png
-![thucthibai3](screenshots/thucthibai3.png)
+![thucthibai3](thucthibai3.png)
 
 ### thucthibai4.png
-![thucthibai4](screenshots/thucthibai4.png)
+![thucthibai4](thucthibai4.png)
 
 ### thucthibai5.png
-![thucthibai5](screenshots/thucthibai5.png)
+![thucthibai5](thucthibai5.png)
